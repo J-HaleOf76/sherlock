@@ -1,10 +1,10 @@
 7Cups
+APClips
 Airliners
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Chess
 Codolio
 DeviantArt
 Discord.bio
@@ -14,16 +14,17 @@ Giphy
 Hashnode
 Hubski
 LessWrong
+LushStories
 Minecraft
 Motherless
 Patched
+Pornhub
 Rarible
 Realmeye
 Reddit
 RocketTube
 Scribd
 Shelf
-Slack
 SlideShare
 Smule
 Splice
@@ -40,3 +41,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster

@@ -12,7 +12,6 @@ Giphy
 Hashnode
 Hubski
 LushStories
-Minecraft
 Patched
 Rarible
 Realmeye
@@ -20,6 +19,7 @@ Reddit
 RocketTube
 Scribd
 Shelf
+Slack
 SlideShare
 Smule
 Splice

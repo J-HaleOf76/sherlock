@@ -5,7 +5,7 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Carbonmade
+BoardGameGeek
 Codolio
 DeviantArt
 Discord.bio
@@ -14,7 +14,7 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-LushStories
+LessWrong
 Minecraft
 Patched
 Pornhub

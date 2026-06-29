@@ -1,12 +1,10 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Carbonmade
 Codolio
 DeviantArt
 Discord.bio
@@ -20,9 +18,7 @@ LessWrong
 LushStories
 Minecraft
 Odysee
-OurDJTalk
 Patched
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -46,4 +42,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster

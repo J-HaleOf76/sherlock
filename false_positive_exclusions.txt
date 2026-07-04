@@ -7,7 +7,7 @@ ArtStation
 Bandcamp
 BreachSta.rs Forum
 Codolio
-Cults3D
+DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
@@ -15,12 +15,14 @@ Giphy
 Hashnode
 Houzz
 Hubski
-Itch.io
 LessWrong
 LushStories
+Minecraft
 Odysee
 PCGamer
 Patched
+Pornhub
+Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -31,17 +33,16 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trovo
 TryHackMe
 Velomania
 Weblate
 YandexMusic
 authorSTREAM
 dailykos
-fixya
 igromania
 interpals
 mercadolivre
-minds
 opennet
 phpRU
 svidbook

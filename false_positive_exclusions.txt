@@ -7,7 +7,6 @@ ArtStation
 Bandcamp
 BreachSta.rs Forum
 Codolio
-Cracked Forum
 DeviantArt
 Discord.bio
 Envato Forum
@@ -18,10 +17,9 @@ Houzz
 Hubski
 LessWrong
 LushStories
-Minecraft
 Odysee
 PCGamer
-Pornhub
+Patched
 Rarible
 Realmeye
 Reddit

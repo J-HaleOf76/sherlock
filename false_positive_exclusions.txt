@@ -1,12 +1,10 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-BreachSta.rs Forum
 Codolio
 DeviantArt
 Discord.bio
@@ -16,6 +14,7 @@ Giphy
 Hashnode
 Hubski
 LessWrong
+LushStories
 Odysee
 PCGamer
 Patched
@@ -44,3 +43,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster

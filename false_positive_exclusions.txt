@@ -18,8 +18,8 @@ LessWrong
 LushStories
 Minecraft
 Odysee
-OurDJTalk
 PCGamer
+Patched
 Pornhub
 Rarible
 Realmeye
@@ -33,7 +33,6 @@ Splice
 Spotify
 Trovo
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 authorSTREAM

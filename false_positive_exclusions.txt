@@ -6,7 +6,10 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
+BoardGameGeek
 Chatujme.cz
+Chess
 Codolio
 DeviantArt
 Discord.bio
@@ -20,6 +23,7 @@ Hubski
 Instapaper
 LessWrong
 LushStories
+Minecraft
 Odysee
 PCGamer
 Patched
@@ -28,6 +32,7 @@ Rarible
 Realmeye
 Reddit
 Replit.com
+ReverbNation
 RocketTube
 Scribd
 Shelf

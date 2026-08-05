@@ -7,6 +7,7 @@ Archive.org
 ArtStation
 Bandcamp
 Blogger
+CGTrader
 Chatujme.cz
 Codolio
 DeviantArt
@@ -19,9 +20,9 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-LessWrong
 LushStories
 Odysee
+OurDJTalk
 PCGamer
 Patched
 Pornhub
@@ -39,7 +40,6 @@ Spotify
 Trakt
 Trovo
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 authorSTREAM

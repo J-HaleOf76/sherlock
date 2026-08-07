@@ -7,9 +7,12 @@ Archive.org
 ArtStation
 Bandcamp
 Blogger
+Chatujme.cz
 Codolio
+Cracked Forum
 DeviantArt
 Discord.bio
+Eintracht Frankfurt Forum
 Envato Forum
 F3.cool
 GeeksforGeeks
@@ -18,7 +21,7 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-LushStories
+Minecraft
 Odysee
 PCGamer
 Patched
@@ -29,6 +32,7 @@ Reddit
 Replit.com
 ReverbNation
 RocketTube
+Scribd
 Shelf
 SlideShare
 Splice
@@ -47,3 +51,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster

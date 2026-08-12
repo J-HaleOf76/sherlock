@@ -4,11 +4,10 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-ArtStation
 Bandcamp
 Blogger
+Carbonmade
 Chatujme.cz
-Chess
 Codolio
 DeviantArt
 Discord.bio
@@ -20,8 +19,8 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-LushStories
 Odysee
+OurDJTalk
 PCGamer
 Patched
 Pornhub
@@ -38,6 +37,7 @@ Splice
 Spotify
 Trovo
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 authorSTREAM

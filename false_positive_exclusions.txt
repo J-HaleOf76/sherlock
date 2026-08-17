@@ -5,22 +5,23 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+Carbonmade
 Chatujme.cz
 Codolio
+Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
 F3.cool
 GeeksforGeeks
 Giphy
-Gravatar
-Gumroad
 HackenProof (Hackers)
 Hashnode
 Houzz
 Hubski
 Instapaper
 Odysee
+Outgress
 PCGamer
 Patched
 Pornhub
@@ -49,3 +50,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster

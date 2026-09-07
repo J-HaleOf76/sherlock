@@ -23,18 +23,17 @@ ObservableHQ
 Odysee
 PCGamer
 Pornhub
+Pychess
 Rarible
 Realmeye
 Reddit
 ReverbNation
-RocketTube
-RuneScape
 Scribd
 Shelf
 SlideShare
 Splice
 Spotify
-Trakt
+Star Citizen
 Trovo
 TryHackMe
 Velomania
@@ -51,4 +50,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster

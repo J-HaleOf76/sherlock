@@ -17,6 +17,7 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+LiveJournal
 ObservableHQ
 Odysee
 PCGamer

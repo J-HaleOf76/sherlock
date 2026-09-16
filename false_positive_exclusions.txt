@@ -4,6 +4,7 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+CGTrader
 Championat
 Chatujme.cz
 ChaturBate
@@ -13,16 +14,16 @@ Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
-HackerRank
 Hashnode
 Houzz
 Hubski
 Instapaper
+Lobsters
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
 Pornhub
-Rajce.net
 Rarible
 Realmeye
 Reddit

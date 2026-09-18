@@ -19,7 +19,6 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-Itch.io
 Minecraft
 ObservableHQ
 Odysee
@@ -35,6 +34,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Velomania

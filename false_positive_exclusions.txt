@@ -19,7 +19,6 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -50,3 +49,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster

@@ -18,7 +18,6 @@ Houzz
 Hubski
 Instapaper
 Linktree
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -35,6 +34,8 @@ Spotify
 Trakt
 Trovo
 TryHackMe
+Valorant Forums
+Velomania
 Weblate
 YandexMusic
 authorSTREAM

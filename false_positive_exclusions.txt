@@ -1,4 +1,5 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -10,10 +11,10 @@ Championat
 Chatujme.cz
 ChaturBate
 Codolio
-Crowdin
 DeviantArt
 Discord.bio
 Envato Forum
+GaiaOnline
 GeeksforGeeks
 Giphy
 HackerNews
@@ -22,6 +23,7 @@ Houzz
 Hubski
 Instapaper
 Linktree
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -53,3 +55,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster

@@ -10,7 +10,6 @@ Chatujme.cz
 Codolio
 DeviantArt
 Discord.bio
-Eintracht Frankfurt Forum
 Envato Forum
 GaiaOnline
 GeeksforGeeks
@@ -22,7 +21,6 @@ Hubski
 Instapaper
 Linktree
 ObservableHQ
-Odysee
 PCGamer
 Rarible
 Realmeye
@@ -35,7 +33,6 @@ SlideShare
 Splice
 Spotify
 Trakt
-Trovo
 TryHackMe
 Velomania
 Weblate

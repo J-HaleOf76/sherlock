@@ -4,6 +4,7 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+Blogger
 CGTrader
 Championat
 Chatujme.cz
@@ -21,6 +22,7 @@ Hubski
 Instapaper
 Linktree
 ObservableHQ
+Odysee
 PCGamer
 Rarible
 Realmeye

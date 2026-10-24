@@ -35,6 +35,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
 Velomania
 Weblate

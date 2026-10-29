@@ -2,7 +2,6 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-BoardGameGeek
 Championat
 Chatujme.cz
 Codolio
@@ -27,7 +26,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-TikTok
 Trakt
 TryHackMe
 Velomania
@@ -38,6 +36,7 @@ authorSTREAM
 dailykos
 fixya
 hunting
+igromania
 interpals
 mercadolivre
 opennet

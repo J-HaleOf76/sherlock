@@ -1,9 +1,6 @@
-APClips
 Airliners
 Apple Developer
-Apple Discussions
 Archive.org
-Carbonmade
 Championat
 Chatujme.cz
 Codolio
@@ -15,10 +12,10 @@ HackerNews
 Hashnode
 Hubski
 Instapaper
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
+Rarible
 Realmeye
 Reddit
 ReverbNation

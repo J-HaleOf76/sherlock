@@ -7,13 +7,14 @@ Chatujme.cz
 Codolio
 DeviantArt
 Discord.bio
-Fosstodon
 GaiaOnline
 GeeksforGeeks
 HackerNews
 Hashnode
 Hubski
 Instapaper
+Linktree
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
